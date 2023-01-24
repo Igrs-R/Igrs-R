@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Igrs-R&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Japan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
